@@ -72,7 +72,7 @@
           <div class="row align-items-center min-vh-75 min-vh-lg-100">
             <div class="col-md-7 col-lg-6 col-xxl-5 py-6 text-sm-start text-center">
               <h1 class="mt-6 mb-sm-4 fw-semi-bold lh-sm fs-4 fs-lg-5 fs-xl-6">A New Way to Invest <br class="d-block d-lg-block" />in Agriculture</h1>
-              <p class="mb-4 fs-1">Zou provides farmes, ranchers, private foresters, and agricultural producers with online self service applications and educational materials.</p><a class="btn btn-lg btn-success" href="#" role="button">Invest Now</a>
+              <p class="mb-4 fs-1">Pheemagri provides farmes, ranchers, private foresters, and agricultural producers with online self service applications and educational materials.</p><a class="btn btn-lg btn-success" href="#" role="button">Invest Now</a>
             </div>
           </div>
         </div>
@@ -187,7 +187,7 @@
           <div class="row justify-content-center">
             <div class="col-sm-8 col-md-9 col-xl-5 text-center pt-8">
               <h5 class="fw-bold fs-3 fs-xxl-5 lh-sm mb-3 text-white">How it works</h5>
-              <p class="mb-5 text-white">Take your pick from the supply chain and participate in agribusiness projects that are backed up not only by Zou, but also by the best land, family heritage, innovation and overall superior expertise.</p>
+              <p class="mb-5 text-white">Take your pick from the supply chain and participate in agribusiness projects that are backed up not only by Pheemagri, but also by the best land, family heritage, innovation and overall superior expertise.</p>
             </div>
             <div class="col-sm-9 col-md-12 col-xxl-9">
               <div class="theme-tab">
@@ -252,7 +252,7 @@
               </div>
               <!--/.bg-holder-->
 
-              <h6 class="fs-3 fs-lg-4 fw-bold lh-sm">What investors like you <br />are saying about Zou</h6>
+              <h6 class="fs-3 fs-lg-4 fw-bold lh-sm">What investors like you <br />are saying about Pheemagri</h6>
             </div>
             <div class="carousel slide pt-3" id="carouselExampleDark" data-bs-ride="carousel">
               <div class="carousel-inner">
@@ -404,7 +404,7 @@
             <div class="col-12">
               <div class="card shadow h-100 py-5">
                 <div class="card-body text-center">
-                  <h1 class="fw-semi-bold mb-4">The future of &nbsp;<span class="text-success">Farm Investing</span> &nbsp; is Zou</h1><a class="btn btn-lg btn-success px-6" href="#" role="button">Invest Now</a>
+                  <h1 class="fw-semi-bold mb-4">The future of &nbsp;<span class="text-success">Farm Investing</span> &nbsp; is Pheemagri</h1><a class="btn btn-lg btn-success px-6" href="#" role="button">Invest Now</a>
                 </div>
               </div>
             </div>
@@ -453,8 +453,8 @@
             <div class="col-12 col-lg-auto mb-3">
               <div class="card bg-success">
                 <div class="card-body p-sm-4">
-                  <h5 class="text-white">Blog Zou</h5>
-                  <p class="mb-0 text-white">write email to us<span class="text-white fs--1 fs-sm-1">info@zoufarm.com</span></p>
+                  <h5 class="text-white">Blog Pheemagri</h5>
+                  <p class="mb-0 text-white">write email to us<span class="text-white fs--1 fs-sm-1">info@Pheemagrifarm.com</span></p>
                   <button class="btn btn-light text-success" type="button">
                     <svg class="bi bi-person me-1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#76C279" viewBox="0 0 16 16">
                       <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"></path>
@@ -466,7 +466,7 @@
           </div>
           <hr class="text-300 mb-0" />
           <div class="row flex-center py-5">
-            <div class="col-12 col-sm-8 col-md-6 text-center text-md-start"> <a class="text-decoration-none" href="#"><img class="d-inline-block align-top img-fluid" src="assets/img/gallery/logo-icon.png" alt="" width="40" /><span class="text-theme font-monospace fs-3 ps-2">Zou</span></a></div>
+            <div class="col-12 col-sm-8 col-md-6 text-center text-md-start"> <a class="text-decoration-none" href="#"><img class="d-inline-block align-top img-fluid" src="assets/img/gallery/logo-icon.png" alt="" width="40" /><span class="text-theme font-monospace fs-3 ps-2">Pheemagri</span></a></div>
             <div class="col-12 col-sm-8 col-md-6">
               <p class="fs--1 text-dark my-2 text-center text-md-end">&copy; This template is made with&nbsp;
                 <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#76C279" viewBox="0 0 16 16">
